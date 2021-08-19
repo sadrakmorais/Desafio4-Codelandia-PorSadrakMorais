@@ -147,6 +147,9 @@ a {
   .img {
     display: none;
   }
+  .login {
+    gap: 25px;
+  }
   .login h2 {
     font-size: 1.3em;
   }
